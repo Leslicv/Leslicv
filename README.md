@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leslicv
-- 👀 I’m interested in html,css y javascript
-- 🌱 I’m currently learning css
+- 👀 I’m interested in java and js
+- 🌱 I’m currently learning spring
 - 📫 How to reach me https://www.linkedin.com/in/lesli-caldas-verde-6a2267110/ 
 - 😄 Pronouns: Rabbit
   
